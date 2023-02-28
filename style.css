@@ -1,0 +1,12 @@
+body{
+    background: black;
+}
+.img-jihad{
+    width: 40px;
+    transition: 0,5s;
+    cursor: pointer;
+
+}
+.img-jihad:hover{
+    transform: scale(1.2);
+}
